@@ -54,7 +54,7 @@ function Round1() {
     <main>
       <section className="w-[98%] mx-auto text-center mt-[50px]">
         <h1 className="text-3xl mb-[10px] font-extrabold text-neutral-700">
-          ¿Cuál de todos es el "the robot"?
+          ¿Cuál de todos es el <b className="font-extrabold">the robot</b>?
         </h1>
         <div className="w-[700px] mx-auto grid grid-cols-3 gap-3">
           <CreateCard
