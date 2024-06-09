@@ -6,7 +6,7 @@ function BossRound1() {
     <main className="flex justify-center mt-[20px]">
       <section>
         <h1 className="text-3xl font-extrabold p-2 max-w-2xl text-center">
-          "A person was sleeping, until he heard a tree"
+          A person was sleeping, until he heard a tree
         </h1>
         <h2 className="w-fit mx-auto">¿Qué escucho el Humano?</h2>
         <div className="grid grid-cols-3 gap-3">
