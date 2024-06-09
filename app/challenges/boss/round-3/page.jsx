@@ -6,7 +6,7 @@ function BossRound3() {
     <main className="flex justify-center mt-[20px]">
       <section>
         <h1 className="text-3xl font-extrabold p-2 max-w-2xl text-center">
-          "A horse was with other horses, and a Cat was found."
+          A horse was with other horses, and a Cat was found.
         </h1>
         <h2 className="w-fit mx-auto">¿Qué encontro el Caballo?</h2>
         <div className="grid grid-cols-3 gap-3">
