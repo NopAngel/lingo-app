@@ -19,13 +19,13 @@ function Sidebar() {
           <section className="mt-[60px] gap-10 flex flex-col">
             <li>
               <a href="/home" className="flex items-center">
-                <img src="/learn.svg" alt="Inicio - Lingo App" />
+                <Image src="/learn.svg" alt="Inicio - Lingo App" />
                 <span className="lg:block none">Inicio</span>
               </a>
             </li>
             <li>
               <a href="/challenges" className="flex items-center">
-                <img src="/quests.svg" alt="Retos - Lingo App" />
+                <Image src="/quests.svg" alt="Retos - Lingo App" />
                 <span className="lg:block none">Retos</span>
               </a>
             </li>
